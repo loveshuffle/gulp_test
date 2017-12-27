@@ -1,0 +1,7 @@
+.wrap {
+    width: 100%;
+    margin: 20px;
+}
+.wrap p {
+    line-height: 24px;
+}

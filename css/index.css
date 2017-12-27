@@ -1,0 +1,11 @@
+.wrap {
+  width: 400px;
+  font-size: 18px;
+  text-align: center;
+  font-weight: normal; }
+  .wrap h3 {
+    margin-bottom: 10px;
+    border-bottom: 1px dashed #ccc; }
+  .wrap ul {
+    text-align: left;
+    color: #ccc; }

@@ -1,0 +1,13 @@
+html, body, div, p, a, span, ul, ol, li, dl, dt, dd, input, textarea, h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+li {
+    list-style: none;
+}
+img {
+    border: none;
+}
+a {
+    text-decoration: none;
+}
